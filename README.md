@@ -2,6 +2,8 @@
 
 A delightful button designed to bring joy to all users who click it.
 
+![The delightful button in action](./delightful_button.gif)
+
 ## **Get Up and Running**
 ### **Pre-requisites:**
 You'll need to have Node and Yarn installed on your machine. I recommend going with [NVM](https://github.com/nvm-sh/nvm) but you do you.

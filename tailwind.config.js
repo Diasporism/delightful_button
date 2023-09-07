@@ -8,8 +8,13 @@ module.exports = {
     extend: {
       colors: {
         'text': '#353648',
+        'eggshell': '#FAF3F0',
         'purple': '#DBC4F0',
-        'eggshell': '#FAF3F0'
+        'pink': '#E893CF',
+        'yellow': '#F2BE22',
+        'red': '#FF6666',
+        'blue': '#00C4FF',
+        'green': '#00DFA2',
       },
     },
   },
